@@ -1,7 +1,7 @@
 import { BsFillPatchQuestionFill } from 'react-icons/bs';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { MenuArea } from '..';
-import { MenuItem } from '../../menu-item';
+import { MenuItem } from '@components/global';
 import React from 'react';
 
 export default {
