@@ -10,7 +10,8 @@
   "dependencies": {
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "storybook-addon-next": "^1.7.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
