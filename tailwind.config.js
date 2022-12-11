@@ -1,3 +1,5 @@
+const { fontFamily } = require('tailwindcss/defaultTheme');
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -9,4 +11,21 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  theme: {
+    extend: {
+      colors: {
+        'primaryColor': '#F9D564',
+        'secondaryColor': {
+          DEFAULT: '#e0e0e0',
+          text: '#e0e0e0',
+          textDark: '#959595',
+          light: '#282c34',
+          dark: '#1c2025'
+        }
+      },
+      fontFamily: {
+        roboto: ['var(--roboto-font)', ...fontFamily.sans]
+      }
+    }
+  }
 }
