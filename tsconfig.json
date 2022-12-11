@@ -6,6 +6,8 @@
       "@components": ["./common/components"],
       "@content/*": ["./content/*"],
       "@content": ["./content"],
+      "@modules/*": ["./modules/*"],
+      "@modules": ["./modules"],
       "@styles/*": ["./styles/*"],
       "@styles": ["./styles"]
     },
