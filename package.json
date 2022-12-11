@@ -1,4 +1,5 @@
 {
+  "name": "random-api-website",
   "private": true,
   "scripts": {
     "dev": "next dev",
