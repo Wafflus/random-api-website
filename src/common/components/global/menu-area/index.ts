@@ -1,0 +1,1 @@
+export { MenuArea } from './MenuArea';
