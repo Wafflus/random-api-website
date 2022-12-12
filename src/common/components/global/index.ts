@@ -1,2 +1,2 @@
 export { Button } from './submit';
-export { Menu, MenuArea, MenuItem } from './layout';
+export { Image, Menu, MenuArea, MenuItem } from './layout';
