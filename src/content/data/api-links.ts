@@ -37,3 +37,11 @@ export const imageApiLinksData: ICheckboxGroupOptions[] = [
         title: 'birds'
     }
 ];
+
+export const fishApiLinksData: ICheckboxGroupOptions[] = [
+    {
+        id: 'fishes',
+        apiUrl: 'https://www.fishwatch.gov/api/species',
+        title: 'fishes'
+    }
+]
