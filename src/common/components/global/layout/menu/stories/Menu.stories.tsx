@@ -41,5 +41,5 @@ SeparateItems.args = {
   children,
   defaultActiveItem: 'one',
   title: 'Menu Title',
-  separateItemsChildren: separateChildren
+  separateItemsChildren: separateChildren,
 };
