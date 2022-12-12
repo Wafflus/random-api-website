@@ -1,2 +1,1 @@
-export { Image } from './data';
-export { Menu, MenuArea, MenuItem } from './navigation';
+export { Menu } from './menu';

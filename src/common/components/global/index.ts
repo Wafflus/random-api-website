@@ -1,3 +1,4 @@
 export { Button } from './submit';
-export { GetData, Range } from './options';
-export { Image, Menu, MenuArea, MenuItem } from './layout';
+export { GetData, MenuArea, MenuItem, Range } from './options';
+export { Image } from './data';
+export { Menu } from './layout';
