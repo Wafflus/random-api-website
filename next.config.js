@@ -12,7 +12,10 @@ module.exports = {
       }, {
         protocol: 'https',
         hostname: 'randomfox.ca'
-      },
+      }, {
+        protocol: 'https',
+        hostname: 'origin-east-01-drupal-fishwatch.woc.noaa.gov'
+      }
     ],
   },
   async redirects() {
