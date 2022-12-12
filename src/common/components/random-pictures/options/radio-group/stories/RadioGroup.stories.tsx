@@ -1,5 +1,5 @@
 import { ComponentStory, ComponentMeta } from '@storybook/react';
-import { RadioButton } from '../../radio-button';
+import { RadioButton } from '@components/random-pictures';
 import { RadioGroup } from '..';
 import React, { ReactElement } from 'react';
 
