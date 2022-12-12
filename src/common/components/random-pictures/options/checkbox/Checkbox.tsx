@@ -2,7 +2,7 @@ import { ICheckboxGroupOptions } from "../checkbox-group/types";
 import { ICheckboxProps } from "./types";
 import { useState } from "react";
 
-export function Checkbox({ children=<></>, optionData, options, setOptions}: ICheckboxProps) {
+export function Checkbox({ children = <></>, optionData, options, setOptions}: ICheckboxProps) {
     const [active, setActive] = useState(false);
 
     const onClick = () => {

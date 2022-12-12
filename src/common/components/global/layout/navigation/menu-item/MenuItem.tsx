@@ -1,7 +1,7 @@
 import { IMenuItemProps } from "./types";
 import Link from 'next/link';
 
-export function MenuItem({ active, activeItem, children, href='/', id, setActiveItem }: IMenuItemProps) {
+export function MenuItem({ active, activeItem, children, href = '/', id, setActiveItem }: IMenuItemProps) {
     const isActive = activeItem === id;
 
     const handleClick = () => {
