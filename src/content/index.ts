@@ -1,0 +1,1 @@
+export { imageApiLinks, fishApiLinks } from './data';
