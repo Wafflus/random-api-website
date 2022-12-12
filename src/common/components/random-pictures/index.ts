@@ -1,1 +1,1 @@
-export { RadioButton, RadioGroup } from './options';
+export { Checkbox, CheckboxGroup, RadioButton, RadioGroup } from './options';
