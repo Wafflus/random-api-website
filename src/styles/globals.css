@@ -3,6 +3,21 @@
 @tailwind utilities;
 
 @layer base {
+    input[type='range']::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+    }
+
+    input[type='range']::-webkit-slider-thumb,
+    input[type='range']::-moz-range-thumb {
+      width: 25px;
+      height: 25px;
+      background: theme('colors.primaryColor');
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+    
     .radio-label {
         display: block;
         position: relative;

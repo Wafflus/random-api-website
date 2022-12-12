@@ -19,5 +19,5 @@ const children = [
 export const Normal = Template.bind({});
 
 Normal.args = {
-  children
+  children,
 };
