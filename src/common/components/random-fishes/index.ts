@@ -1,1 +1,1 @@
-export { Description, Extra, Title } from './data';
+export { Description, Extra, Info, Title } from './data';
