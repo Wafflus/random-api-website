@@ -22,11 +22,11 @@ WithBoth.args = {
 };
 
 WithoutIcon.args = {
-  text: 'Button'
+  text: 'Button',
 };
 
 WithoutText.args = {
-  icon: <AiFillInfoCircle />
+  icon: <AiFillInfoCircle />,
 };
 
 WithoutBoth.args = {

@@ -16,12 +16,12 @@ export const DisabledButton = Template.bind({});
 
 WithData.args = {
   data: ['', '', '', '', ''],
-  title: 'Button'
+  title: 'Button',
 };
 
 NoData.args = {
   data: [],
-  title: 'Button'
+  title: 'Button',
 };
 
 WithRange.args = {
