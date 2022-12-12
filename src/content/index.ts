@@ -1,0 +1,1 @@
+export { fishApiLinks, fishApiLinksData, imageApiLinks, imageApiLinksData } from './data';
