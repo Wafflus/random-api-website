@@ -1,1 +1,1 @@
-export { fishApiLinks, imageApiLinks } from './api-links';
+export { fishApiLinks, imageApiLinks, imageApiLinksData } from './api-links';
