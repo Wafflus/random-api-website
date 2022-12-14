@@ -14,7 +14,7 @@ Deployed using [Vercel](https://vercel.com).
 
 ## Links
 
-It can be seen live at [https://randomapi.wafflus.com](https://www.randomapiwebsite.wafflus.com).
+It can be seen live at [https://randomapi.wafflus.com](https://randomapiwebsite.wafflus.com).
 
 API's used: [https://random.dog/](https://random.dog/), [https://shibe.online/](https://shibe.online/), [https://randomfox.ca/](https://randomfox.ca/), [https://www.fishwatch.gov/](https://www.fishwatch.gov/).
 
